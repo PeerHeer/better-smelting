@@ -1,5 +1,7 @@
 {
   "values": [
-    "peerheer.better_smelting:load"
+    "peerheer.better_smelting:load",
+    "peerheer.better_smelting:load",
+    "peerheer.bs:trident/create_objectives"
   ]
 }
