@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "peerheer.better_smelting:player/block_placed/placed_smoker_advancement"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:smoker"
+      }
+    }
+  }
+}
